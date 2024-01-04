@@ -1,0 +1,13 @@
+﻿.main {
+    display: block;
+    
+    background-color: #1E1E1E;
+    
+    border-radius: 10px;
+
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    
+    margin: auto;
+}

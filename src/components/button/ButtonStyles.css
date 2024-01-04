@@ -1,0 +1,12 @@
+﻿.buttonMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 100%;
+    background-color: rgba(33, 49, 44, 0.67);
+}
+
+.buttonMain:focus {
+    background-color: #1E1E1E;
+}
